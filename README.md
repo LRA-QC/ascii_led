@@ -2,6 +2,8 @@
 C program that draws text in bigger size with ascii characters (similar to figlet). The current version
 supports only numbers but text will be added. A custom font is embedded in the code.
 
+![ascii led output](screenshot.png)
+
 # Goal
 
 I don't recall the original page, but there was fun exercise to write a program that renders numbers
